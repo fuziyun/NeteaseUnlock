@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,jiyou.world
+DOMAIN-SUFFIX,jl54.org
+DOMAIN-SUFFIX,zimuku.la
+DOMAIN-SUFFIX,zmk.pw
+DOMAIN-SUFFIX,rrys2019.com
+DOMAIN-SUFFIX,subhd.tv
+DOMAIN-SUFFIX,pdoro.com
