@@ -98,6 +98,7 @@ DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hbomax.com
 
 # > Hulu
 USER-AGENT,Hulu*
