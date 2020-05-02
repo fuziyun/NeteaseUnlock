@@ -1,2 +1,3 @@
 # > CW Network
 DOMAIN-SUFFIX,cwtv.com
+DOMAIN-KEYWORD,hbomax
