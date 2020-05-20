@@ -1,1 +1,3 @@
 DOMAIN-SUFFIX,ssrpass.com
+DOMAIN-SUFFIX,cp.v2tun.com
+DOMAIN-SUFFIX,cloud-wing.net
