@@ -377,7 +377,6 @@ DOMAIN-SUFFIX,zoom.us
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,pinterest
-DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,wikileaks
 
 # (Region-Restricted Access Denied)
