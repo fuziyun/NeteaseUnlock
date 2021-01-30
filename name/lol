@@ -1,0 +1,25 @@
+;不要随意改变关键字，否则会导致出错
+
+;设置规则标志位
+surge_ruleset=DIRECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/name/1DIRECT.txt
+surge_ruleset=Netflix,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/name/2NETFLIX.txt
+surge_ruleset=REJECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/name/3REJECT.txt
+surge_ruleset=Yougram,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/name/4YOUTUBE%2BTELEGRAM.txt
+surge_ruleset=GlobalTV,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/name/5GLOBALTV.txt
+surge_ruleset=DIRECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/name/6BILIBILI.txt
+surge_ruleset=DIRECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/name/8APPLE.txt
+surge_ruleset=Proxy,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/name/9PROXY.txt
+surge_ruleset=Microsoft,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/name/10MICROSOFT.txt
+surge_ruleset=DIRECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/name/11DIRECT.txt
+surge_ruleset=Others,[]FINAL
+;设置规则标志位
+
+;设置分组标志位
+custom_proxy_group=Proxy`select`.*
+custom_proxy_group=Netflix`select`[]Proxy`.*
+custom_proxy_group=Yougram`select`[]Proxy`.*
+custom_proxy_group=GlobalTV`select`[]US`[]Proxy`.*
+custom_proxy_group=Microsoft`select`[]Proxy
+custom_proxy_group=Others`select`[]Proxy`[]US`[]DIRECT`.*
+custom_proxy_group=US`select`US|America|Silicon|Seattle|UniSiliconted States|美国|[^-]美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥`http://www.gstatic.com/generate_204`500
+;设置分组标志位
