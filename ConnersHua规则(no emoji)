@@ -3,8 +3,6 @@
 ;设置规则标志位
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/ConnersHua/1DIRECT.txt
 surge_ruleset=REJECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/ConnersHua/2Hijacking.txt
-surge_ruleset=GlobalTV,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/ConnersHua/3GlobalMedia.txt
-surge_ruleset=GlobalTV,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/mine/My%20GlobalTV.txt
 surge_ruleset=Proxy,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/ConnersHua/3Media.txt
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/ConnersHua/4HKMTMedia.txt
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/mine/DIRECT.txt
@@ -14,6 +12,8 @@ surge_ruleset=DIRECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/mas
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/ConnersHua/7Apple.txt
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/ConnersHua/8DIRECT.txt
 surge_ruleset=NeteaseMusic,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/ConnersHua/9NeteaseMusic.txt
+surge_ruleset=GlobalTV,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/ConnersHua/3GlobalMedia.txt
+surge_ruleset=GlobalTV,https://raw.githubusercontent.com/fuziyun/NeteaseUnlock/master/mine/My%20GlobalTV.txt
 surge_ruleset=DIRECT,[]GEOIP,CN
 surge_ruleset=Others,[]FINAL
 ;设置规则标志位
